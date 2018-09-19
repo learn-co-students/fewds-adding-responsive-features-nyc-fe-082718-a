@@ -1,0 +1,18 @@
+@media (min-width:1108px) 
+  {
+   .wrapper { width:90%; }
+   #social { position: absolute; width:auto; top: 82px; right: 4px;}
+  }
+  
+@media (min-width:900px) 
+    {
+      body
+        { font-size:85% }
+      #logo h1
+        { width:35px; height:35px; }
+      #logo h2
+        { font-size:2.2em; }
+      social
+        { position:absolute; top:72px; }
+        
+        }
